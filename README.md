@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Valtenas
+- 👋 Hi, I’m @Victor
 - 👀 I’m interested in creating websites and webapps
-- 🌱 I’m currently learning the basics of code !
-- 📫 How to reach me thachvictor@gmail.com
+- 🌱 I’m currently studying to become a developer !
+- 📫 How to reach me > thachvictor@gmail.com
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: still in process 
+- ⚡ Fun fact: still in process... 
 
 <!---
 Valtenas/Valtenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
