@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victor
 - 👀 I’m interested in creating websites and webapps
-- 🌱 I’m currently studying to become a developer !
+- 🌱 I’m currently studying to become a web developer !
 - 📫 How to reach me -> thachvictor@gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: still in process... 
